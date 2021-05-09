@@ -73,7 +73,7 @@ header #links a:hover {
 
 #articles article img {
     display: block;
-    margin: auto;
+    margin: 10px auto;
     border-radius: 15px;
 }
 
