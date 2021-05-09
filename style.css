@@ -72,6 +72,7 @@ header #links a:hover {
 /* Styling Articles */
 
 #articles article img {
+    outline: 2px solid gray;
     display: block;
     margin: 10px auto;
     border-radius: 15px;
