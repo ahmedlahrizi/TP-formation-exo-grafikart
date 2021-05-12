@@ -95,7 +95,7 @@ header a img, header + aside a img {
     background-position: center;
     background-size: cover;
     background-image: url("./images/image.png"); */
-    background: no-repeat center / cover url("./images/image.png");
+    background: no-repeat center / cover url("./image.png");
 }
 
 /* Styling Articles */
